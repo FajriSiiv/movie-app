@@ -1,0 +1,9 @@
+export const apiKey = process.env.REACT_APP_API_KEY;
+
+export const sessionID = process.env.REACT_APP_SESSION_KEY;
+
+// Access Token
+// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE2NjE1ODc0OTEsImF1ZCI6ImZjZmZlM2NhYTcyMzk2ZDFkNGRkZjdiNzYyZTEwM2JhIiwianRpIjoiNDgwODY2NCIsInN1YiI6IjYzMDg4YmIxYjdkMzUyMDA4M2FhNWQ4MyIsInZlcnNpb24iOjEsInNjb3BlcyI6WyJhcGlfcmVhZCIsImFwaV93cml0ZSJdfQ.3Qzrqwiu1XQw-0by2D-P_rLb3oqj-6TZgjFe3nm2lJc
+
+// Account ID
+// 63088bb1b7d3520083aa5d83
