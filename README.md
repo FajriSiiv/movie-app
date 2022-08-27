@@ -13,3 +13,6 @@
 - Mulai dari pengambilan data dari API menggunakan fetch hingga mendapatkan detail data (page dynamic/dinamis)
 - Mencari ide design website (dribble)
 - Memulai styling dengan styled components dan responsive
+- mencoba build website dengan 'npm run build'
+- upload code website ke github
+- deploy website dari vercel
